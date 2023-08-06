@@ -1,0 +1,4 @@
+jlailia  ;  ali    ;  40
+dallali  ;  ramzi  ;  30
+dallali  ;  mariem ;  7
+jlailia  ;  riem   ;  3
