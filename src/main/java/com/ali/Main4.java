@@ -14,7 +14,7 @@ public class Main4 {
 
 		Person p1 = new Person("jlailia", "ali", 24);
 		Person p2 = new Person("dallali", "ramzi", 20);
-		Person p3 = new Person("dallali", "mariem", 7);
+		Person p3 = new Person("dallali", "mariem", 10);
 		Person p4 = new Person("jlailia", "riem", 3);
 
 		List<Person> persons = List.of(p1, p2, p3, p4);
